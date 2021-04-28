@@ -14,8 +14,7 @@ we are very happy to open a new bakery
  visit:
 www.tastybakery.com
 
-<li>Chennai</a>
-<li>Bengaluru</a>
+<li>Chennai</li>
+<li>Bengaluru</li>
 
-<li><a href=
-"https://github.com/shapeai">Mumbai</a>
+<li>>Mumbai</li>
