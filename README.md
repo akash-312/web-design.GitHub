@@ -16,9 +16,6 @@ www.tastybakery.com
 
 <li>Chennai</a>
 <li>Bengaluru</a>
-<li><a
-href=
-"h>YouTu
-be</a>
+
 <li><a href=
 "https://github.com/shapeai">GitHub</a>
