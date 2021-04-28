@@ -14,8 +14,8 @@ we are very happy to open a new bakery
  visit:
 www.tastybakery.com
 
-<li><>Chennai</a>
-<li><>Bengaluru</a>
+<li>Chennai</a>
+<li>Bengaluru</a>
 <li><a
 href=
 "h>YouTu
