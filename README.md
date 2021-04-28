@@ -17,4 +17,4 @@ www.tastybakery.com
 <li>Chennai</li>
 <li>Bengaluru</li>
 
-<li>>Mumbai</li>
+<li>Mumbai</li>
