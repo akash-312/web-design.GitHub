@@ -5,10 +5,12 @@ we are very happy to open a new bakery
 
 <a > <img src="https://github.com/akash-312/web-design.GitHub/blob/main/561546899-blog2.jpg"> </a>
 <br>We made new stuff
+<a class="stuff">
 <li> pie
 <li> pastries
  <li>  muffins
-   li{display:flex;}
+  </a>
+  .stuff{display:flex;}
 <br>during these 7 days, and everything was explained from the very basics so that
 anyone with zero experience on programming can learn.
 I enjoyed these 7 days, you can as well. To register for next free 7 days bootcamp, visit:
