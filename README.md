@@ -3,8 +3,8 @@ Hello, This is our new bakery opening ceremony <b>
 </b>.
 we are very happy to open a new bakery 
 
-<a href="https://youtube.com/playlist?list=PL7zl8TDRnbun7K0fECtSMCI2hOCgLBy9a"> <img src="https://github.com/akash-312/web-design.GitHub/blob/main/561546899-blog2.jpg"> </a>
-<br>I got to have hands on experience on:
+<a > <img src="https://github.com/akash-312/web-design.GitHub/blob/main/561546899-blog2.jpg"> </a>
+<br>We made new stuff:bread, rolls, cookies, pies, pastries, and muffins
 <li>HTML
 <li>CSS
 <br>during these 7 days, and everything was explained from the very basics so that
