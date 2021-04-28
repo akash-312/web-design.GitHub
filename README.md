@@ -14,13 +14,11 @@ we are very happy to open a new bakery
  visit:
 www.tastybakery.com
 
-<li><a href=
-"https://in.linkedin.com/company/shapeai">LinkedIn</a>
-<li><a href=
-"https://www.instagram.com/shape.ai/?hl=en">Instagram</a>
+<li><>Chennai</a>
+<li><>Bengaluru</a>
 <li><a
 href=
-"https://www.youtube.com/channel/UCTUvDLTW9meuDXWcbmISPdA">YouTu
+"h>YouTu
 be</a>
 <li><a href=
 "https://github.com/shapeai">GitHub</a>
