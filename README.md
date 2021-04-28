@@ -13,6 +13,7 @@ we are very happy to open a new bakery
 <br>Baking the difference. We create delicious memories. Just like home. Let us keep Your cookie jar filled. We beat it, you eat it! Live the sweet life! Let us put a smile on your face.
  visit:
 www.tastybakery.com
+<p> Our branches<p>
 
 <li>Chennai</li>
 <li>Bengaluru</li>
